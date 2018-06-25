@@ -2,10 +2,10 @@ import tweepy
 import nltk
 import csv
 import sys
-consumer_key = "fzTKr5UJm5JEYdtMGo4359QYJ"
-consumer_secret = "aVo6QqSjjNe18n3YW2uEsjEOovNMvFlrZYpGJK3WrWjeKLrX05"
-access_token = "2470112398-BdgcMHVcYLBJkMYvDTNBQWuJYhCQC223ZxUQB4S"
-access_token_secret = "UB8ANuStsE6GiRkOiKBlG8QIQm6WpJhLUQ6iuuPVaGkKs"
+consumer_key = "Rwcyy6WOuyiVG8YVCBOo4m8CT"
+consumer_secret = "45D2Bu1bP6i9AjQHLGBZiSqusCmu72LzLrekL336CIThENiMKt"
+access_token = "153471706-mEjdoW7lDmVWeAlAheEQcyR0C9FCkIDgsuQnTmP9"
+access_token_secret = "WYa9GhgcHGCW7JDgveAvSNVnv5hQJgKnWyYrUXbzZKSNC"
 stopWords = ['http','https','RT']
 suitableTokens = []
 f = open('noun_data.csv','w')
