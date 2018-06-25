@@ -1,4 +1,4 @@
-# 507WaiverFall2017
+# 507WaiverFall2017 #Kesava Kota, kesavakk@umich.edu
 
 Waiver exam for University of Michigan UMSI course, SI 507. You must complete all 4 parts, and the code for each part must be checked in to github with the name specified for that part. Any other filenames will break our grading system and will be rejected.
 
